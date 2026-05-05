@@ -1,0 +1,6 @@
+1. git add .
+2. git commit -m "describe your changes"
+3. git push origin main
+4. git pull --rebase origin main
+
+Note : Only use git pull --rebase origin main to sure your local branch is up to date before pushing.
